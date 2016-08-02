@@ -4,3 +4,5 @@
 echo "Hello World. This is my first repository on git.";
 
 ?>
+<br/><br/>
+<input type="text" name="test" value="This is i/p box" />
