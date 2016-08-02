@@ -1,3 +1,5 @@
 # demo
-To create a Demo Project
-hello world
+
+This is a demo repository
+
+which consists only echo statements
